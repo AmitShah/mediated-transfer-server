@@ -1,3 +1,7 @@
+dist/
+
+# BELOW SOME DEFAULTS
+
 # Logs
 logs
 *.log
